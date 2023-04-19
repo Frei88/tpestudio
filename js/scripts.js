@@ -7,8 +7,8 @@
 // Use this file to add JavaScript to your project
 
 // --validacion de formulario con jQuery--//
-$(document).ready(function() {
-  $("#basic-form").validate();});
+//$(document).ready(function() {
+  //$("#basic-form").validate();});
 
   // validacion de nombre//
 
